@@ -2,7 +2,7 @@
     "name": "gdf/communicator",
     "description": "A test to use Composition design pattern creating a communicator class",
     "type": "library",
-    "license": "Apache 2",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Gianluca Di Francisca",
