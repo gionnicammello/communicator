@@ -57,7 +57,8 @@ class Communicator implements ICommunicator
     }
 
 
-    public function send(){
+    public function send()
+    {
         foreach($this->handlers as $handler){
             foreach($this->recipients as $recipient){
                 $handler->send($recipient, $this->object, $this->subject);
