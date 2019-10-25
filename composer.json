@@ -1,0 +1,19 @@
+{
+    "name": "gdf/communicator",
+    "description": "A test to use Composition design pattern creating a communicator class",
+    "type": "library",
+    "license": "Apache 2",
+    "authors": [
+        {
+            "name": "Gianluca Di Francisca",
+            "email": "g.difrancisca@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "GDF\\Communicator\\": "app/components/communicator/src"
+        }
+    }
+}
