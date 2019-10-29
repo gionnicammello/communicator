@@ -1,7 +1,7 @@
 <?php
 
 
-namespace GDF\Communicator;
+namespace gionnicammello\Communicator;
 
 
 abstract class Recipient implements IRecipient

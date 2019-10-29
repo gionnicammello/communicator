@@ -1,7 +1,7 @@
 <?php
 
 
-namespace GDF\Communicator;
+namespace gionnicammello\Communicator;
 
 
 class ScreenMessageHandler implements IHandler
